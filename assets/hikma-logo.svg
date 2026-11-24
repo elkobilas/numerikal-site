@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60" role="img" aria-label="Hikma logo">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#F5E6A3"/>
+    </linearGradient>
+  </defs>
+  <!-- Flame / lamp symbol -->
+  <g transform="translate(6,6)">
+    <path d="M22 4 C16 10, 14 16, 18 22 C14 20, 10 22, 10 28 C10 36, 18 42, 26 42 C34 42, 42 36, 42 28 C42 22, 38 20, 34 22 C38 16, 36 10, 30 4 C28 8, 26 8, 22 4 Z" fill="url(#g)"/>
+    <ellipse cx="26" cy="44" rx="16" ry="4" fill="#D4AF37" opacity="0.6"/>
+  </g>
+  <!-- Wordmark -->
+  <text x="62" y="40" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700" fill="#D4AF37" letter-spacing="2">HIKMA</text>
+</svg>
