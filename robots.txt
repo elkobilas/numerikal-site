@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://elkobilas.github.io/numerikal-site/sitemap.xml
